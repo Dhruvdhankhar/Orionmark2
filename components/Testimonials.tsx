@@ -6,19 +6,19 @@ const testimonials = [
     name: 'Chandan',
     company: 'Social Media Influencer',
     content: 'MediaBoost transformed our online presence. Our social media engagement has skyrocketed!',
-    avatar: 'SJ',
+    avatar: 'CH',
   },
   {
     name: 'Deepanshu',
     company: 'The Dot(Co-Founder)',
     content: 'The web development team at MediaBoost created a stunning website that perfectly represents our brand.',
-    avatar: 'MC',
+    avatar: 'DE',
   },
   {
     name: 'Suryansh',
     company: 'Businessman',
     content: 'Our Google Ads campaign managed by MediaBoost has brought in a steady stream of new clients.',
-    avatar: 'ER',
+    avatar: 'SU',
   },
 ];
 
